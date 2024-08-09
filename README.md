@@ -35,7 +35,10 @@ If main program is ready to start, the keylogger will be set to record to the de
 <img src="https://i.imgur.com/HBBaq3U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+Here, we can see user keystrokes are recorded in both the text file and the terminal in our IDE. Note: The keystrokes are also recorded in the actual text file on the PC and not just in the one in the IDE:  <br/>
+<img src="https://i.imgur.com/PLZA6fJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <!--
  ```diff
